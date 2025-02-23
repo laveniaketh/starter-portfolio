@@ -144,10 +144,12 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link: "https://github.com/yelyail",
     },
     {
       id: 2,
-      img: "/twit.svg",
+      img: "/fb.svg",
+      link: "https://www.facebook.com/arieljuly.traje",
     },
     {
       id: 3,
